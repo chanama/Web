@@ -310,6 +310,7 @@ switch语句也叫条件分支语句。
 **举例2**：
 
 ```javascript
+    var number = 5;
     //switch判断语句
     switch (number) {
         default:
